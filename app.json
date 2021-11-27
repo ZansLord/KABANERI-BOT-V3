@@ -1,0 +1,7 @@
+{
+  "name": "kabaneri-bot",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/ZansLord/KABANERI-BOT-V3",
+  "logo": "https://avatars.githubusercontent.com/u/90433321",
+  "keywords": ["nodejs", "bot", "whatsapp bot"]
+}
