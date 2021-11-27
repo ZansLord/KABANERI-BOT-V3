@@ -1,4 +1,4 @@
-### Hi Bruh Welcome To my profile👋
+### Hi Bruh Welcome To KABANERI BOT
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/90433321?v=4" />
@@ -19,12 +19,44 @@
 ![My card name](https://cardivo.vercel.app/api?name=ZansLord&description=DOOOR,%20WELCOME%20TO%20di%20github%20ZansLord%20&image=https://avatars.githubusercontent.com/u/90433321?v=4&backgroundColor=%23ecf0f1&instagram=abdulmalik_4342&github=ZansLord&pattern=leaf&colorPattern=%23eaeaea)
 
  ---------
+## edit owner change apikey and link grup dll
+* [`in here`](https://github.com/ZansLord/KABANERI-BOT-V3/blob/main/src/settings.json)
+```
+{
+	"tz": "€⟩",
+	"prefix": "#",
+	"ownerNumber": "6285869074622",
+	"ownerrz": "+62 858-6907-4622",
+	"ownerrf": "6285869074622",
+	"numberbot": "14157667384",
+	"cr": "KABANERI-BOT",
+	"cr1": "KABANERI-BOT TERVERIFIKASI",
+	"grub1": "https://chat.whatsapp.com/Jk6TLnLOVGQGlbzh6577Qw",
+	"grub2": "https://chat.whatsapp.com/LTL9J5K0dxp65WspruIQuW",
+	"grub3": "https://chat.whatsapp.com/J17gfDmyKHN33IyWnynzvh",	
+	"naylachan": "[❗] SEDANG DIPROSES",	
+	"cr2": "BISMILLAH BERKAHH",
+	"ownername": "ABDUL KUN",
+	"botname": "KABANERI-BOT",
+	"namebot": "KABANERI-BOT",	
+	"apixteam": "170342e43e147afa",
+	"l0lhuman": "3a5fadc9dfb7b4b1f2a5a8e3",	
+	"fake1": "KABANERI-BOT",
+	"fake2": "KABANERI OLD",	 
+	"donasi": "MAU DONASI GAK TOD??",
+	"pulsa": "085869074622",
+	"gopay": "085869074622",
+	"ovo": "085869074622",
+	"dana": "085869074622"
+	
+}
+```
 
 ## FOR TERMUX
 ```
-> $git clone https://github.com/ZansLord/KABANERI-BOT-V2
-> $cd KABANERI-BOT-V2
-> $npm install
+> $git clone https://github.com/ZansLord/KABANERI-BOT-V3
+> $cd KABANERI-BOT-V3
+> $bash install.sh
 > $npm start
 ```
 
