@@ -29,6 +29,7 @@ apt-get install -y nodejs libwebp ffmpeg wget tesseract
 wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 npm install
  
+echo "disana ada error kan? Itu dah biasa ketik npm start aja"
 echo "KETIK npm start. KODE QR TIDAK MUNCUL?? CHAT GW wa.me/+6285869074622"
 echo "Jangan Lupa Follow Github ZansLord"
 echo " disini gw hanya recode!!!!"
